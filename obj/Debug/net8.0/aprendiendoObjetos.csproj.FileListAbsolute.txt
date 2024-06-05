@@ -12,3 +12,4 @@
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/aprendiendoObjetos.pdb
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/aprendiendoObjetos.genruntimeconfig.cache
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/ref/aprendiendoObjetos.dll
+/home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/aprendiendoObjetos.sourcelink.json

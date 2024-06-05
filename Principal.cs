@@ -14,7 +14,7 @@ namespace otraLibreria{
             pepe.color = "rojo";
             pepe.material = "plastico";
 
-            pepe.mover();
+            pepe.mover("pepe");
 
             
             Console.WriteLine(pepe.crear());
@@ -24,6 +24,8 @@ namespace otraLibreria{
             Console.WriteLine(roberta.crear());
             Console.WriteLine(roberta.color);
             Console.WriteLine(roberta.material);
+
+            roberta.mover("roberta");
             
 
 

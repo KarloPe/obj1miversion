@@ -18,7 +18,9 @@ namespace libreriaClases {
             return "hola";
         }
 
-        public void mover(){
+        public void mover(string pNombre){
+
+            Console.WriteLine("La silla se está moviendo {0}", pNombre);
 
         }
 
