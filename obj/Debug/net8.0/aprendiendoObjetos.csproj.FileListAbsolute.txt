@@ -13,3 +13,18 @@
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/aprendiendoObjetos.genruntimeconfig.cache
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/ref/aprendiendoObjetos.dll
 /home/et12alumno/aprendiendoObjetos/obj/Debug/net8.0/aprendiendoObjetos.sourcelink.json
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\bin\Debug\net8.0\aprendiendoObjetos.exe
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\bin\Debug\net8.0\aprendiendoObjetos.deps.json
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\bin\Debug\net8.0\aprendiendoObjetos.runtimeconfig.json
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\bin\Debug\net8.0\aprendiendoObjetos.dll
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\bin\Debug\net8.0\aprendiendoObjetos.pdb
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.AssemblyInfoInputs.cache
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.AssemblyInfo.cs
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.sourcelink.json
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.dll
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\refint\aprendiendoObjetos.dll
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.pdb
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\aprendiendoObjetos.genruntimeconfig.cache
+C:\Users\Calito10\Desktop\5 17\paradigmas\objprofe\aprendiendoobjetos\obj\Debug\net8.0\ref\aprendiendoObjetos.dll

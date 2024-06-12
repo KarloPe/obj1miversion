@@ -2,24 +2,21 @@ using libreriaClases;
 
 namespace otraLibreria{
 
-    class principal{
+    class Principal{
 
         static void Main(){
 
-            string nombre;
+            Silla italia = new Silla();
+            Silla roberta = new Silla();
 
-            silla pepe = new silla();
-            silla roberta = new silla();
+            italia.color = "rojo";
+            italia.material = "cuero";
 
-            pepe.color = "rojo";
-            pepe.material = "plastico";
-
-            pepe.mover("pepe");
-
+            italia.mover("cholo");
             
-            Console.WriteLine(pepe.crear());
-            Console.WriteLine(pepe.color);
-            Console.WriteLine(pepe.material);
+            Console.WriteLine(italia.crear());
+            Console.WriteLine(italia.color);
+            Console.WriteLine(italia.material);
 
             Console.WriteLine(roberta.crear());
             Console.WriteLine(roberta.color);
@@ -27,10 +24,6 @@ namespace otraLibreria{
 
             roberta.mover("roberta");
             
-
-
-
-
         }
     }
 }

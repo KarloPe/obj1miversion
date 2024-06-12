@@ -1,29 +1,22 @@
-﻿
-
-using System.Drawing;
+﻿using System.Drawing;
 
 namespace libreriaClases {
 
-    class silla {
+    class Silla {
 
         //atributos
         public string color;
         public string material;
 
-
         //metodos
-
         public string crear(){
 
-            return "hola";
+            return "Hola... creando...";
         }
-
         public void mover(string pNombre){
 
-            Console.WriteLine("La silla se está moviendo {0}", pNombre);
+            Console.WriteLine("La silla {0} se está moviendo", pNombre);
 
         }
-
-
     }
 }
