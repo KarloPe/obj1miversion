@@ -12,18 +12,18 @@ namespace otraLibreria{
             italia.color = "rojo";
             italia.material = "cuero";
 
-            italia.mover("cholo");
+            italia.Mover("cholo");
             
-            Console.WriteLine(italia.crear());
+            Console.WriteLine(italia.Crear());
             Console.WriteLine(italia.color);
             Console.WriteLine(italia.material);
 
-            Console.WriteLine(roberta.crear());
+            Console.WriteLine(roberta.Crear());
             Console.WriteLine(roberta.color);
             Console.WriteLine(roberta.material);
 
-            roberta.mover("roberta");
+            roberta.Mover("roberta");
             
         }
     }
-}
+}           //cm

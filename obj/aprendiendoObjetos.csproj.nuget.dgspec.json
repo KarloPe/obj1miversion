@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\objprofe\\aprendiendoobjetos\\aprendiendoObjetos.csproj": {}
+    "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\objprofe\\aprendiendoobjetos\\aprendiendoObjetos.csproj": {
+    "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\objprofe\\aprendiendoobjetos\\aprendiendoObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj",
         "projectName": "aprendiendoObjetos",
-        "projectPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\objprofe\\aprendiendoobjetos\\aprendiendoObjetos.csproj",
+        "projectPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj",
         "packagesPath": "C:\\Users\\Calito10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\objprofe\\aprendiendoobjetos\\obj\\",
+        "outputPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Calito10\\AppData\\Roaming\\NuGet\\NuGet.Config"
