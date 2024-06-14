@@ -2,23 +2,38 @@
 
 namespace libreriaClases {
 
-    class Silla {
+    class Persona {
 
         //atributos
-        public string color=string.Empty;
-        public string material=string.Empty;
-        //public string material;
-        //string.Empty es para el error 8618 Nonnullable reference puede ser null, entonces inicializo y listo
+        public string nombre;
+        public string fecNac;
+        public int dni;
+        public bool vivo;
 
-        //metodos
-        public string Crear(){
-
-            return "Hola... creando...";
+        //constructor 
+        public Persona(int rDni, string rNombre, string rFechanac) {
+            dni=rDni;
+            nombre=rNombre;
+            fecNac=rFechanac;
+            vivo=true;
         }
-        public void Mover(string pNombre){
 
-            Console.WriteLine("La silla {0} se está moviendo", pNombre);
+        //otros metodos
+        public string Respirar(){
 
+            return "Hola... respirando...";
         }
+
+        public void Morir(){
+
+            Console.WriteLine ("{0} murio...",nombre);
+            vivo=false;
+        }
+
+        public void Revivir(){
+            Console.WriteLine ("{0} reivió...",nombre);
+            vivo=true;
+        }
+
     }
 }           //cm

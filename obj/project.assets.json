@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\persona\\aprendiendoObjetos.csproj",
       "projectName": "aprendiendoObjetos",
-      "projectPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\aprendiendoObjetos.csproj",
+      "projectPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\persona\\aprendiendoObjetos.csproj",
       "packagesPath": "C:\\Users\\Calito10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\silla\\obj\\",
+      "outputPath": "C:\\Users\\Calito10\\Desktop\\5 17\\paradigmas\\persona\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Calito10\\AppData\\Roaming\\NuGet\\NuGet.Config"

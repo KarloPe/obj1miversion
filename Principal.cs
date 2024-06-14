@@ -6,24 +6,26 @@ namespace otraLibreria{
 
         static void Main(){
 
-            Silla italia = new Silla();
-            Silla roberta = new Silla();
+        Persona p1 = new Persona(11114556, "Carlos", "01/01/80");
+        Persona p2 = new Persona (22235,"Marin","02/02/88");
 
-            italia.color = "rojo";
-            italia.material = "cuero";
+        Console.WriteLine (p1.Respirar());
 
-            italia.Mover("cholo");
-            
-            Console.WriteLine(italia.Crear());
-            Console.WriteLine(italia.color);
-            Console.WriteLine(italia.material);
+        Console.WriteLine (p1.dni);
+        Console.WriteLine (p1.nombre);
+        Console.WriteLine (p1.fecNac);
+        Console.WriteLine (p1.vivo);
 
-            Console.WriteLine(roberta.Crear());
-            Console.WriteLine(roberta.color);
-            Console.WriteLine(roberta.material);
+        Console.WriteLine ("");
 
-            roberta.Mover("roberta");
-            
+        Console.WriteLine (p2.dni);
+        Console.WriteLine (p2.nombre);
+        Console.WriteLine (p2.fecNac);
+        Console.WriteLine (p2.vivo);
+
+        p2.Morir ();
+        p2.Revivir();
+
         }
     }
 }           //cm
